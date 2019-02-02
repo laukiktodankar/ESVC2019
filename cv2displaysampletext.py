@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = np.zeros((512,512,3))
+img = np.zeros((512,512,3),np.uint8)
 
 #define font properties
 
